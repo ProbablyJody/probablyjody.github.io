@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://www.probably.tech/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.probably.tech/" rel="alternate" type="text/html" /><updated>2017-06-14T17:35:54-05:00</updated><id>http://www.probably.tech/</id><title type="html">ProbablyTech</title><subtitle>Because every developer needs a blog! ... Right? ... Guys? ... Is there anybody out there?
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-11T01:31:57-05:00</updated><id>http://localhost:4000/</id><title type="html">Probably Tech</title><subtitle>Because every developer needs a blog right? Hello? Is there anybody out there?
+</subtitle><entry><title type="html">Time to Jekyll!</title><link href="http://localhost:4000/2017/08/08/time-to-jekyll.html" rel="alternate" type="text/html" title="Time to Jekyll!" /><published>2017-08-08T10:31:08-05:00</published><updated>2017-08-08T10:31:08-05:00</updated><id>http://localhost:4000/2017/08/08/time-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017/08/08/time-to-jekyll.html">&lt;p&gt;I’ve launched a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; hosted &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; site for
+myself using &lt;a href=&quot;https://github.com/octopress/octopress&quot;&gt;Octopress 3.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This will give me a handy spot to develop and post blogs, maintain project information that isn’t quite ready for
+publishing, and add a personal bookmarks page. I mainly chose this route because I like the idea of using source control
+for these things.&lt;/p&gt;
+
+&lt;p&gt;Eventually I’ll put up a post about how I set all of this up. For now, if you are interested, take a look at the
+&lt;a href=&quot;https://github.com/octopress/octopress&quot;&gt;Octopress 3.0&lt;/a&gt; documentation. It’s a work in progress, but I felt like
+the instructions were fairly thorough.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve launched a GitHub hosted Jekyll site for myself using Octopress 3.0.</summary></entry></feed>
