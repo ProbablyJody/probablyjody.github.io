@@ -1,4 +1,7 @@
-# Summer Reading List: The Matilda
+# The Matilda
+A reading list inspired by [Roald Dahl](https://www.goodreads.com/author/show/4273.Roald_Dahl)'s [Matilda](https://www.goodreads.com/book/show/39988.Matilda)
+
+---
 
 1. [The Secret Garden](https://www.goodreads.com/book/show/2998.The_Secret_Garden) by [Frances Hodgson Burnett](https://www.goodreads.com/author/show/2041.Frances_Hodgson_Burnett)
 1. [Great Expectations](https://www.goodreads.com/book/show/2623.Great_Expectations) by [Charles Dickens](https://www.goodreads.com/author/show/239579.Charles_Dickens)
