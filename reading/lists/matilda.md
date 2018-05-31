@@ -30,6 +30,6 @@ A reading list inspired by [Roald Dahl](https://www.goodreads.com/author/show/42
 
 ---
 
-Source of list: https://en.wikipedia.org/wiki/Matilda_Wormwood#Books as of 2018/05/30
+Source of list: [https://en.wikipedia.org/wiki/Matilda_Wormwood#Books](https://en.wikipedia.org/wiki/Matilda_Wormwood#Books) as of 2018/05/30
 
-Source of image: https://stylist-assets.imgix.net/app/uploads/2017/10/25094816/4572af9aee1dca67c56bcc306ae642b5.jpg as of 2018/05/30
+Source of image: [https://stylist-assets.imgix.net/app/uploads/2017/10/25094816/4572af9aee1dca67c56bcc306ae642b5.jpg](https://stylist-assets.imgix.net/app/uploads/2017/10/25094816/4572af9aee1dca67c56bcc306ae642b5.jpg) as of 2018/05/30
